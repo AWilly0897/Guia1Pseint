@@ -1,26 +1,18 @@
 Algoritmo InversionNumero
-	// Este programa invierte un número de dos cifras
-	
+	// Este programa invierte un numero de dos cifras
 	// Definimos las variables que vamos a utilizar
-	Definir num, decenas, unidades, numInvertido, aux Como Real;
-	
-	// Solicitamos al usuario que ingrese un número de dos cifras
-	Escribir "Ingrese un número de dos cifras:";
-	
-	// Guardamos el número ingresado por el usuario en la variable 'num'
-	Leer num;
-	
-	// Invertimos el número
-	unidades = num mod 10;
-	decenas = trunc(num/10); // Aquí obtenemos las decenas
-	aux = decenas;
-	decenas = unidades;
-	unidades = aux;
-	numInvertido = decenas * 10 + unidades; // Aquí invertimos el número
-	
-	// Mostramos el número invertido por pantalla
-	Escribir "El número invertido es: ", numInvertido;
+	Definir num, decenas, unidades, numInvertido, aux Como Real
+	// Solicitamos al usuario que ingrese un numero de dos cifras
+	Escribir 'Ingrese un numero de dos cifras:'
+	// Guardamos el numero ingresado por el usuario en la variable 'num'
+	Leer num
+	// Invertimos el numero
+	unidades <- num MOD 10
+	decenas <- trunc(num/10)
+	aux <- decenas // Aquua obtenemos las decenas
+	decenas <- unidades
+	unidades <- aux
+	numInvertido <- decenas*10+unidades
+	// Mostramos el numero invertido por pantalla
+	Escribir 'El numero invertido es: ', numInvertido // Aqua invertimos el numero
 FinAlgoritmo
-
-
-

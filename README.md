@@ -1,12 +1,44 @@
-Primero, debes descargar el instalador de PSeInt para Windows. Puedes encontrarlo en la página oficial de PSeInt1.
+Instalación de PSeInt
+Para ejecutar y probar los ejercicios de esta guía, es necesario contar con PSeInt instalado en tu computadora.
 
-Una vez que hayas descargado el archivo, debes abrirlo. Esto iniciará el proceso de instalación.
+Pasos para instalar PSeInt en Windows:
+1- Descargar PSeInt desde su página oficial.
+2- Abrir el instalador una vez descargado. 
+3- Seguir las instrucciones de instalación, aceptando los términos de servicio y seleccionando la ubicación de instalación. 
+4- Opción portable: Si prefieres no instalar nada, puedes descargar la versión portable y ejecutar el archivo "wxPSeInt.exe". 
+5- Acceder al programa desde el menú de inicio una vez que la instalación haya finalizado.
 
-Sigue las instrucciones que aparecen en el instalador. Normalmente, esto implica aceptar los términos de servicio y seleccionar la ubicación de instalación.
+Con PSeInt listo, podrás abrir los archivos de esta guía y ejecutarlos para analizar su funcionamiento paso a paso.
 
-Si eliges la versión “portable”, no necesitarás instalar nada, solo descomprimir el archivo. En este caso, el ejecutable que debes lanzar es "wxPSeInt.exe"1.
+Guía de Ejercicios PSeInt - Programa Argentina 4.0
+Esta carpeta contiene una recopilación de ejercicios prácticos de introducción a la programación con PSeInt, desarrollados dentro del programa Argentina 4.0. Los ejercicios están organizados por encuentros y tipos, permitiendo una práctica progresiva paso a paso.
 
-Una vez que la instalación esté completa, deberías poder abrir PSeInt desde el menú de inicio de Windows.
+Estructura de los archivos
+Los archivos tienen una nomenclatura específica para facilitar su identificación:
+
+Ejemplo:
+MiniGuia_E1_EJ2_nombre-del-algoritmo.psd → Encuentro Nº1 del Segundo ejercicio.
+
+Ejemplo:
+introPs_E2_EJ1_nombre-del-algoritmo.psc → Encuentro Nº2.del Primer ejercicio
+
+Ejercicios Extras
+Los ejercicios adicionales están identificados con introPs_ExX_, donde ExX indica que es un ejercicio extra.
+
+Ejercicios Colaborativos
+Los archivos con el prefijo introPs_Colaborativo corresponden a ejercicios diseñados para el trabajo en equipo y la resolución conjunta de problemas.
+
+Ejemplo:
+introPs_Colaborativo1.psc → Ejercicio colaborativo Nº1
+
+
+Cómo usar estos archivos
+Cada ejercicio contiene las instrucciones necesarias para su ejecución en PSeInt. Los archivos están preparados para ser revisados, ejecutados y probados paso a paso, permitiendo la verificación de posibles errores. Además, se ha implementado un corrector línea por línea, lo que facilita la depuración del código.
+
+Propósito de la guía
+El objetivo de estos ejercicios es reforzar los conceptos fundamentales de la programación y la lógica algorítmica, permitiendo el aprendizaje progresivo y la identificación de errores mediante la ejecución controlada en PSeInt.
+
+¡Explora los ejercicios, pon a prueba tus habilidades y mejora tu lógica de programación!
 
 MINI GUIA.
 ENCUENTRO 1 EJERCICIOS DE APRENDIZAIE:
